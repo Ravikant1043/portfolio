@@ -133,7 +133,7 @@ nav ul li a:hover::after{
 .tablink.active-link::after{
     width: 100%;
 }
-.tabcontent ul li{
+.tabcontent ul li a{
     list-style: none;
 }
 .tabcontent ul li span{
